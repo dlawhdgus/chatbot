@@ -1,4 +1,4 @@
-import { help,Korea,Usa,China,Arab, Spain, France, Russia, Japan, Portugal, Philippine } from "./bot.js"
+import { help,Korea,Usa,China,Arab, Spain, France, Russia, Japan, Portugal, Philippine } from "./Bot.js"
 import { createRequire } from "module"
 const require = createRequire(import.meta.url)
 const readline = require('readline')

@@ -1,5 +1,5 @@
 
-import { ARR_DATA_SET } from "./global.js";
+import { ARR_DATA_SET } from "./Global.js";
 
 
 
